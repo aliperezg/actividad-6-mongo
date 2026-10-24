@@ -1,0 +1,13 @@
+{
+  "name": "actividad-6-mongo",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/seeders/seeders.js",
+  "scripts": {
+    "seed": "node src/seeders/seeders.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "mongodb": "^6.5.0"
+  }
+}
